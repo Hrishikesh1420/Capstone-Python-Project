@@ -1,2 +1,2 @@
 Situation: Had to create a Dataframe of employees and projects.
-Task: To create a Dataframe and using numpy and pandas and perform multiple tasks on the created DF’s.
+As the situation states my task on this project was to make a database on python by using numpy and pandas, My task was not just to make the databases but i also had to perform various types of tasks on those created dataframes like merging them, calculatinh the total cost, sorting the data etc i completed this project in the given time and secured a score of 93/100
